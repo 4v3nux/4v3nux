@@ -2,8 +2,6 @@
 
 ### A budding Javascript developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=4v3nux&label=Profile views&color=0e75b6&style=flat" alt="4v3nux" /> </p>
-
 - 📫 How to reach me **avenux@avenux.ru**
 
 - 📝 My personal website **[https://avenux.ru/](https://avenux.ru/)**
