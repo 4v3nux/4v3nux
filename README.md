@@ -1,6 +1,6 @@
 # Hi 👋, I'm Avenux
 ![](https://komarev.com/ghpvc/?username=4v3nux)
-### Java and Javascript developer + some other languages
+### Developer
 
 - 📫 How to reach me **avenux@avenux.ru**
 
