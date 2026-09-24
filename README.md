@@ -31,10 +31,13 @@
 
 ### R.I.P Terry Davis
 ![](https://media1.tenor.com/m/TECN7oY_viMAAAAd/terry-terry-davis.gif)
+
 ![](https://media1.tenor.com/m/D3QkqcTElK8AAAAd/cia-terry.gif)
 ![](https://media1.tenor.com/m/bBwV9mt2QnEAAAAd/vainzi-white-guy.gif)
 ![](https://media1.tenor.com/m/7gO2-QDeG2IAAAAd/terry-davis.gif)
+
 ![](https://media1.tenor.com/m/ZOh7bYrKEnwAAAAd/terry-davis-terry-a-davis.gif)
+
 ![](https://media1.tenor.com/m/APVtvPnHivIAAAAd/king-terry.gif)
 
 ### Ulillillia
