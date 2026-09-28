@@ -1,5 +1,4 @@
 # Hi 👋, I'm Avenux
-![](https://komarev.com/ghpvc/?username=4v3nux)
 ### Developer
 
 - 📫 How to reach me **avenux@avenux.ru**
