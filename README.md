@@ -1,4 +1,4 @@
-# Hi 👋, I'm Avenux
+# Hey 👋, I'm Avenux
 ### Developer
 
 - 📫 How to reach me **avenux@avenux.ru**
