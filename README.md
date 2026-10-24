@@ -15,14 +15,11 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/>
 </p>
 
 [![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=4v3nux&theme=dracula&headerStyle=mac&typingSpeed=50&hostname=avenux.ru&commands=whoami%2Cneofetch%2Clanguages%2Cuptime%2Cexit)](https://github.com/4v3nux)
